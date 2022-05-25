@@ -1,0 +1,23 @@
+{
+  "name": "table-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate-data": "node utils/json-generator.js",
+    "server": "json-server server/table-data.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shihaohong/table-json-server.git"
+  },
+  "author": "Shi Hao Hong",
+  "license": "ISC",
+  "dependencies": {
+    "unique-names-generator": "^4.7.1"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}

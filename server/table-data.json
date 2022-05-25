@@ -1,0 +1,904 @@
+{
+  "data": [
+    {
+      "Active Model": "standard_tyrannosaurus",
+      "Created At": "2020-05-12T16:32:12.291Z",
+      "Parent Model": "proud_dinosaur",
+      "Accuracy (sliding)": "43%",
+      "(cumu.)": "81%",
+      "Latency (p50, ms)": 129,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "okay_toucan",
+      "Created At": "2022-03-17T16:26:11.438Z",
+      "Parent Model": "vitreous_yak",
+      "Accuracy (sliding)": "82%",
+      "(cumu.)": "71%",
+      "Latency (p50, ms)": 477,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "worldwide_galliform",
+      "Created At": "2022-01-02T16:50:48.672Z",
+      "Parent Model": "glad_tarantula",
+      "Accuracy (sliding)": "88%",
+      "(cumu.)": "89%",
+      "Latency (p50, ms)": 118,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "comprehensive_aphid",
+      "Created At": "2020-06-23T16:31:02.336Z",
+      "Parent Model": "active_mastodon",
+      "Accuracy (sliding)": "98%",
+      "(cumu.)": "15%",
+      "Latency (p50, ms)": 466,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "certain_wasp",
+      "Created At": "2020-07-10T16:14:35.772Z",
+      "Parent Model": "sound_angelfish",
+      "Accuracy (sliding)": "16%",
+      "(cumu.)": "49%",
+      "Latency (p50, ms)": 474,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "reasonable_aphid",
+      "Created At": "2020-07-22T16:59:36.550Z",
+      "Parent Model": "flaky_felidae",
+      "Accuracy (sliding)": "74%",
+      "(cumu.)": "80%",
+      "Latency (p50, ms)": 462,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "sharp_impala",
+      "Created At": "2021-02-18T16:29:53.922Z",
+      "Parent Model": "slippery_wildfowl",
+      "Accuracy (sliding)": "11%",
+      "(cumu.)": "93%",
+      "Latency (p50, ms)": 3,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "dear_elephant",
+      "Created At": "2022-04-25T16:47:09.898Z",
+      "Parent Model": "compatible_woodpecker",
+      "Accuracy (sliding)": "60%",
+      "(cumu.)": "22%",
+      "Latency (p50, ms)": 35,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "warm_chinchilla",
+      "Created At": "2020-03-05T16:07:10.808Z",
+      "Parent Model": "alone_pig",
+      "Accuracy (sliding)": "93%",
+      "(cumu.)": "94%",
+      "Latency (p50, ms)": 70,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "premier_impala",
+      "Created At": "2021-04-19T16:59:07.114Z",
+      "Parent Model": "gay_rodent",
+      "Accuracy (sliding)": "64%",
+      "(cumu.)": "98%",
+      "Latency (p50, ms)": 296,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "continuing_stingray",
+      "Created At": "2022-05-05T16:01:58.187Z",
+      "Parent Model": "alive_rhinoceros",
+      "Accuracy (sliding)": "49%",
+      "(cumu.)": "40%",
+      "Latency (p50, ms)": 68,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "cooing_rabbit",
+      "Created At": "2021-05-31T16:44:18.905Z",
+      "Parent Model": "underlying_ocelot",
+      "Accuracy (sliding)": "81%",
+      "(cumu.)": "19%",
+      "Latency (p50, ms)": 153,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "yelling_rooster",
+      "Created At": "2022-01-04T16:11:40.168Z",
+      "Parent Model": "exuberant_deer",
+      "Accuracy (sliding)": "74%",
+      "(cumu.)": "57%",
+      "Latency (p50, ms)": 278,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "available_raccoon",
+      "Created At": "2020-11-06T16:06:05.253Z",
+      "Parent Model": "integral_tiger",
+      "Accuracy (sliding)": "55%",
+      "(cumu.)": "21%",
+      "Latency (p50, ms)": 476,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "vicarious_finch",
+      "Created At": "2021-11-28T16:30:32.730Z",
+      "Parent Model": "wily_anglerfish",
+      "Accuracy (sliding)": "15%",
+      "(cumu.)": "48%",
+      "Latency (p50, ms)": 322,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "hon_locust",
+      "Created At": "2020-10-20T16:11:56.324Z",
+      "Parent Model": "uninterested_raccoon",
+      "Accuracy (sliding)": "20%",
+      "(cumu.)": "43%",
+      "Latency (p50, ms)": 135,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "proud_otter",
+      "Created At": "2021-03-18T16:41:10.559Z",
+      "Parent Model": "heavy_coyote",
+      "Accuracy (sliding)": "45%",
+      "(cumu.)": "59%",
+      "Latency (p50, ms)": 73,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "spotty_beaver",
+      "Created At": "2021-04-08T16:59:09.456Z",
+      "Parent Model": "modest_ant",
+      "Accuracy (sliding)": "39%",
+      "(cumu.)": "37%",
+      "Latency (p50, ms)": 41,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "defensive_perch",
+      "Created At": "2021-08-15T16:15:34.695Z",
+      "Parent Model": "wispy_roadrunner",
+      "Accuracy (sliding)": "50%",
+      "(cumu.)": "86%",
+      "Latency (p50, ms)": 275,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "lucky_tortoise",
+      "Created At": "2022-03-11T16:02:57.023Z",
+      "Parent Model": "gleaming_cricket",
+      "Accuracy (sliding)": "90%",
+      "(cumu.)": "8%",
+      "Latency (p50, ms)": 490,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "evil_shrew",
+      "Created At": "2022-02-11T16:13:07.865Z",
+      "Parent Model": "gradual_finch",
+      "Accuracy (sliding)": "19%",
+      "(cumu.)": "87%",
+      "Latency (p50, ms)": 405,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "net_chimpanzee",
+      "Created At": "2021-04-09T16:10:13.458Z",
+      "Parent Model": "natural_blackbird",
+      "Accuracy (sliding)": "23%",
+      "(cumu.)": "81%",
+      "Latency (p50, ms)": 498,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "racial_crane",
+      "Created At": "2022-01-06T16:33:04.608Z",
+      "Parent Model": "enthusiastic_frog",
+      "Accuracy (sliding)": "22%",
+      "(cumu.)": "9%",
+      "Latency (p50, ms)": 176,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "elated_pigeon",
+      "Created At": "2021-01-13T16:23:30.665Z",
+      "Parent Model": "inc_frog",
+      "Accuracy (sliding)": "86%",
+      "(cumu.)": "3%",
+      "Latency (p50, ms)": 485,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "worthwhile_ant",
+      "Created At": "2020-05-11T16:57:23.459Z",
+      "Parent Model": "frantic_crawdad",
+      "Accuracy (sliding)": "88%",
+      "(cumu.)": "43%",
+      "Latency (p50, ms)": 326,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "instant_reptile",
+      "Created At": "2020-04-08T16:07:54.846Z",
+      "Parent Model": "innovative_squirrel",
+      "Accuracy (sliding)": "13%",
+      "(cumu.)": "13%",
+      "Latency (p50, ms)": 141,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "intellectual_guineafowl",
+      "Created At": "2020-02-13T16:28:36.256Z",
+      "Parent Model": "eligible_porcupine",
+      "Accuracy (sliding)": "67%",
+      "(cumu.)": "17%",
+      "Latency (p50, ms)": 407,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "single_flyingfish",
+      "Created At": "2022-03-25T16:50:56.345Z",
+      "Parent Model": "interesting_basilisk",
+      "Accuracy (sliding)": "24%",
+      "(cumu.)": "32%",
+      "Latency (p50, ms)": 380,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "soviet_raccoon",
+      "Created At": "2022-02-19T16:21:15.994Z",
+      "Parent Model": "metropolitan_pinniped",
+      "Accuracy (sliding)": "51%",
+      "(cumu.)": "23%",
+      "Latency (p50, ms)": 166,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "chronic_narwhal",
+      "Created At": "2021-01-24T16:07:15.370Z",
+      "Parent Model": "soft_coral",
+      "Accuracy (sliding)": "89%",
+      "(cumu.)": "99%",
+      "Latency (p50, ms)": 345,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "socialist_goose",
+      "Created At": "2020-11-17T16:19:57.864Z",
+      "Parent Model": "mad_sturgeon",
+      "Accuracy (sliding)": "93%",
+      "(cumu.)": "29%",
+      "Latency (p50, ms)": 20,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "ltd_goldfish",
+      "Created At": "2022-03-25T16:35:51.081Z",
+      "Parent Model": "mute_mandrill",
+      "Accuracy (sliding)": "58%",
+      "(cumu.)": "6%",
+      "Latency (p50, ms)": 171,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "cold_muskox",
+      "Created At": "2020-05-19T16:16:16.171Z",
+      "Parent Model": "electric_slug",
+      "Accuracy (sliding)": "23%",
+      "(cumu.)": "76%",
+      "Latency (p50, ms)": 73,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "missing_peacock",
+      "Created At": "2020-03-10T16:04:16.197Z",
+      "Parent Model": "xeric_turtle",
+      "Accuracy (sliding)": "96%",
+      "(cumu.)": "49%",
+      "Latency (p50, ms)": 0,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "flat_horse",
+      "Created At": "2021-11-27T16:26:43.779Z",
+      "Parent Model": "wee_unicorn",
+      "Accuracy (sliding)": "93%",
+      "(cumu.)": "87%",
+      "Latency (p50, ms)": 100,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "bored_hawk",
+      "Created At": "2022-05-04T16:35:03.156Z",
+      "Parent Model": "secret_catfish",
+      "Accuracy (sliding)": "17%",
+      "(cumu.)": "24%",
+      "Latency (p50, ms)": 152,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "little_muskox",
+      "Created At": "2021-10-07T16:30:08.502Z",
+      "Parent Model": "creepy_cardinal",
+      "Accuracy (sliding)": "67%",
+      "(cumu.)": "83%",
+      "Latency (p50, ms)": 204,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "soft_eagle",
+      "Created At": "2022-02-18T16:44:03.119Z",
+      "Parent Model": "intelligent_lamprey",
+      "Accuracy (sliding)": "71%",
+      "(cumu.)": "85%",
+      "Latency (p50, ms)": 385,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "skinny_walrus",
+      "Created At": "2020-02-11T16:31:06.691Z",
+      "Parent Model": "unexpected_marmoset",
+      "Accuracy (sliding)": "86%",
+      "(cumu.)": "24%",
+      "Latency (p50, ms)": 57,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "revolutionary_slug",
+      "Created At": "2021-05-05T16:39:45.632Z",
+      "Parent Model": "soft_platypus",
+      "Accuracy (sliding)": "67%",
+      "(cumu.)": "67%",
+      "Latency (p50, ms)": 177,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "reasonable_rook",
+      "Created At": "2021-03-25T16:31:27.164Z",
+      "Parent Model": "environmental_lemur",
+      "Accuracy (sliding)": "38%",
+      "(cumu.)": "37%",
+      "Latency (p50, ms)": 198,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "dizzy_gecko",
+      "Created At": "2021-07-26T16:57:13.714Z",
+      "Parent Model": "fit_crow",
+      "Accuracy (sliding)": "43%",
+      "(cumu.)": "54%",
+      "Latency (p50, ms)": 338,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "relaxed_landfowl",
+      "Created At": "2022-05-24T16:56:41.993Z",
+      "Parent Model": "wet_peafowl",
+      "Accuracy (sliding)": "47%",
+      "(cumu.)": "36%",
+      "Latency (p50, ms)": 20,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "gothic_bird",
+      "Created At": "2020-10-27T16:10:59.806Z",
+      "Parent Model": "wilful_bobolink",
+      "Accuracy (sliding)": "39%",
+      "(cumu.)": "39%",
+      "Latency (p50, ms)": 192,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "gradual_echidna",
+      "Created At": "2021-09-25T16:53:26.408Z",
+      "Parent Model": "artificial_krill",
+      "Accuracy (sliding)": "21%",
+      "(cumu.)": "81%",
+      "Latency (p50, ms)": 75,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "cloudy_ape",
+      "Created At": "2020-08-02T16:49:51.394Z",
+      "Parent Model": "fundamental_rhinoceros",
+      "Accuracy (sliding)": "11%",
+      "(cumu.)": "36%",
+      "Latency (p50, ms)": 336,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "surviving_angelfish",
+      "Created At": "2020-09-08T16:12:09.775Z",
+      "Parent Model": "embarrassing_catfish",
+      "Accuracy (sliding)": "74%",
+      "(cumu.)": "22%",
+      "Latency (p50, ms)": 213,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "central_hoverfly",
+      "Created At": "2022-01-12T16:46:53.623Z",
+      "Parent Model": "civilian_rhinoceros",
+      "Accuracy (sliding)": "29%",
+      "(cumu.)": "50%",
+      "Latency (p50, ms)": 427,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "novel_dog",
+      "Created At": "2021-07-27T16:56:56.751Z",
+      "Parent Model": "living_tern",
+      "Accuracy (sliding)": "63%",
+      "(cumu.)": "32%",
+      "Latency (p50, ms)": 153,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "obnoxious_canidae",
+      "Created At": "2020-12-18T16:16:55.181Z",
+      "Parent Model": "bewildered_herring",
+      "Accuracy (sliding)": "8%",
+      "(cumu.)": "49%",
+      "Latency (p50, ms)": 195,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "prior_mandrill",
+      "Created At": "2021-02-19T16:48:45.240Z",
+      "Parent Model": "raspy_raccoon",
+      "Accuracy (sliding)": "75%",
+      "(cumu.)": "98%",
+      "Latency (p50, ms)": 227,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "hurt_hamster",
+      "Created At": "2021-07-30T16:07:31.468Z",
+      "Parent Model": "favourite_shark",
+      "Accuracy (sliding)": "38%",
+      "(cumu.)": "66%",
+      "Latency (p50, ms)": 139,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "hissing_hookworm",
+      "Created At": "2020-05-21T16:24:09.411Z",
+      "Parent Model": "interior_rodent",
+      "Accuracy (sliding)": "36%",
+      "(cumu.)": "91%",
+      "Latency (p50, ms)": 264,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "bright_sparrow",
+      "Created At": "2020-03-09T16:54:24.305Z",
+      "Parent Model": "intelligent_ant",
+      "Accuracy (sliding)": "26%",
+      "(cumu.)": "37%",
+      "Latency (p50, ms)": 221,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "exciting_skunk",
+      "Created At": "2020-02-06T16:09:19.947Z",
+      "Parent Model": "slippery_weasel",
+      "Accuracy (sliding)": "45%",
+      "(cumu.)": "93%",
+      "Latency (p50, ms)": 355,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "evident_seahorse",
+      "Created At": "2020-09-28T16:27:56.611Z",
+      "Parent Model": "loyal_fly",
+      "Accuracy (sliding)": "4%",
+      "(cumu.)": "43%",
+      "Latency (p50, ms)": 256,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "useful_nightingale",
+      "Created At": "2022-02-15T16:19:54.889Z",
+      "Parent Model": "associated_deer",
+      "Accuracy (sliding)": "59%",
+      "(cumu.)": "34%",
+      "Latency (p50, ms)": 158,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "involved_moth",
+      "Created At": "2020-06-30T16:58:19.082Z",
+      "Parent Model": "considerable_eel",
+      "Accuracy (sliding)": "83%",
+      "(cumu.)": "55%",
+      "Latency (p50, ms)": 167,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "brave_jackal",
+      "Created At": "2020-07-05T16:01:42.160Z",
+      "Parent Model": "commercial_cephalopod",
+      "Accuracy (sliding)": "92%",
+      "(cumu.)": "7%",
+      "Latency (p50, ms)": 499,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "controlled_ostrich",
+      "Created At": "2021-09-16T16:46:17.204Z",
+      "Parent Model": "grotesque_tiger",
+      "Accuracy (sliding)": "71%",
+      "(cumu.)": "21%",
+      "Latency (p50, ms)": 486,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "quickest_quelea",
+      "Created At": "2020-06-16T16:10:13.351Z",
+      "Parent Model": "manual_takin",
+      "Accuracy (sliding)": "82%",
+      "(cumu.)": "47%",
+      "Latency (p50, ms)": 410,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "small_halibut",
+      "Created At": "2022-05-06T16:04:31.753Z",
+      "Parent Model": "diplomatic_bird",
+      "Accuracy (sliding)": "64%",
+      "(cumu.)": "68%",
+      "Latency (p50, ms)": 409,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "communist_shark",
+      "Created At": "2020-07-20T16:59:37.902Z",
+      "Parent Model": "easy_squirrel",
+      "Accuracy (sliding)": "59%",
+      "(cumu.)": "43%",
+      "Latency (p50, ms)": 8,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "odd_lemur",
+      "Created At": "2022-05-22T16:11:18.775Z",
+      "Parent Model": "anonymous_perch",
+      "Accuracy (sliding)": "47%",
+      "(cumu.)": "93%",
+      "Latency (p50, ms)": 410,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "crooked_firefly",
+      "Created At": "2020-07-17T16:30:34.763Z",
+      "Parent Model": "proud_puffin",
+      "Accuracy (sliding)": "6%",
+      "(cumu.)": "21%",
+      "Latency (p50, ms)": 34,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "private_warbler",
+      "Created At": "2021-12-20T16:29:41.889Z",
+      "Parent Model": "willing_elephant",
+      "Accuracy (sliding)": "95%",
+      "(cumu.)": "83%",
+      "Latency (p50, ms)": 3,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "olympic_tortoise",
+      "Created At": "2020-12-08T16:34:35.296Z",
+      "Parent Model": "reluctant_snail",
+      "Accuracy (sliding)": "96%",
+      "(cumu.)": "61%",
+      "Latency (p50, ms)": 363,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "naked_gibbon",
+      "Created At": "2021-02-18T16:21:34.639Z",
+      "Parent Model": "dark_peafowl",
+      "Accuracy (sliding)": "29%",
+      "(cumu.)": "95%",
+      "Latency (p50, ms)": 169,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "panicky_damselfly",
+      "Created At": "2021-12-07T16:43:40.513Z",
+      "Parent Model": "shared_python",
+      "Accuracy (sliding)": "95%",
+      "(cumu.)": "85%",
+      "Latency (p50, ms)": 225,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "fellow_tyrannosaurus",
+      "Created At": "2020-08-06T16:33:46.085Z",
+      "Parent Model": "crucial_bear",
+      "Accuracy (sliding)": "67%",
+      "(cumu.)": "24%",
+      "Latency (p50, ms)": 264,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "spare_rodent",
+      "Created At": "2022-04-14T16:17:03.003Z",
+      "Parent Model": "frozen_silverfish",
+      "Accuracy (sliding)": "50%",
+      "(cumu.)": "25%",
+      "Latency (p50, ms)": 470,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "alleged_booby",
+      "Created At": "2022-02-18T16:36:28.358Z",
+      "Parent Model": "immediate_hawk",
+      "Accuracy (sliding)": "78%",
+      "(cumu.)": "51%",
+      "Latency (p50, ms)": 55,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "mobile_capybara",
+      "Created At": "2022-02-24T16:13:13.437Z",
+      "Parent Model": "testy_swan",
+      "Accuracy (sliding)": "52%",
+      "(cumu.)": "98%",
+      "Latency (p50, ms)": 391,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "delightful_chinchilla",
+      "Created At": "2020-08-05T16:26:58.755Z",
+      "Parent Model": "legal_ferret",
+      "Accuracy (sliding)": "0%",
+      "(cumu.)": "70%",
+      "Latency (p50, ms)": 42,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "fresh_coyote",
+      "Created At": "2020-12-14T16:46:24.308Z",
+      "Parent Model": "colorful_quelea",
+      "Accuracy (sliding)": "89%",
+      "(cumu.)": "20%",
+      "Latency (p50, ms)": 223,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "managerial_swordtail",
+      "Created At": "2020-05-01T16:50:37.363Z",
+      "Parent Model": "cheap_bee",
+      "Accuracy (sliding)": "37%",
+      "(cumu.)": "25%",
+      "Latency (p50, ms)": 246,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "thirsty_wolf",
+      "Created At": "2021-03-28T16:04:58.183Z",
+      "Parent Model": "prepared_wildebeest",
+      "Accuracy (sliding)": "60%",
+      "(cumu.)": "71%",
+      "Latency (p50, ms)": 48,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "bored_bear",
+      "Created At": "2020-06-01T16:41:47.678Z",
+      "Parent Model": "extreme_condor",
+      "Accuracy (sliding)": "41%",
+      "(cumu.)": "17%",
+      "Latency (p50, ms)": 340,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "raw_python",
+      "Created At": "2020-10-03T16:33:05.125Z",
+      "Parent Model": "tired_amphibian",
+      "Accuracy (sliding)": "22%",
+      "(cumu.)": "55%",
+      "Latency (p50, ms)": 125,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "wealthy_earwig",
+      "Created At": "2021-08-15T16:48:45.059Z",
+      "Parent Model": "immense_antelope",
+      "Accuracy (sliding)": "62%",
+      "(cumu.)": "67%",
+      "Latency (p50, ms)": 161,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "guilty_dingo",
+      "Created At": "2021-10-16T16:26:05.637Z",
+      "Parent Model": "fiscal_donkey",
+      "Accuracy (sliding)": "70%",
+      "(cumu.)": "21%",
+      "Latency (p50, ms)": 461,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "developed_piranha",
+      "Created At": "2021-10-04T16:09:08.705Z",
+      "Parent Model": "equivalent_wolverine",
+      "Accuracy (sliding)": "39%",
+      "(cumu.)": "51%",
+      "Latency (p50, ms)": 458,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "sole_platypus",
+      "Created At": "2022-04-23T16:26:47.917Z",
+      "Parent Model": "keen_coral",
+      "Accuracy (sliding)": "45%",
+      "(cumu.)": "53%",
+      "Latency (p50, ms)": 429,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "armed_marten",
+      "Created At": "2022-01-10T16:06:42.433Z",
+      "Parent Model": "colossal_alpaca",
+      "Accuracy (sliding)": "73%",
+      "(cumu.)": "62%",
+      "Latency (p50, ms)": 73,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "tremendous_mouse",
+      "Created At": "2020-04-26T16:56:28.720Z",
+      "Parent Model": "low_cuckoo",
+      "Accuracy (sliding)": "41%",
+      "(cumu.)": "48%",
+      "Latency (p50, ms)": 271,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "ready_cod",
+      "Created At": "2021-06-08T16:42:36.435Z",
+      "Parent Model": "cognitive_giraffe",
+      "Accuracy (sliding)": "12%",
+      "(cumu.)": "53%",
+      "Latency (p50, ms)": 73,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "correct_slug",
+      "Created At": "2021-08-21T16:10:33.323Z",
+      "Parent Model": "yammering_amphibian",
+      "Accuracy (sliding)": "38%",
+      "(cumu.)": "16%",
+      "Latency (p50, ms)": 269,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "profound_slug",
+      "Created At": "2020-06-23T16:24:52.644Z",
+      "Parent Model": "excessive_tiger",
+      "Accuracy (sliding)": "98%",
+      "(cumu.)": "99%",
+      "Latency (p50, ms)": 306,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "abstract_spoonbill",
+      "Created At": "2021-02-26T16:06:37.083Z",
+      "Parent Model": "soviet_bear",
+      "Accuracy (sliding)": "85%",
+      "(cumu.)": "72%",
+      "Latency (p50, ms)": 397,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "improved_pelican",
+      "Created At": "2022-04-11T16:23:23.602Z",
+      "Parent Model": "geographical_sawfish",
+      "Accuracy (sliding)": "73%",
+      "(cumu.)": "28%",
+      "Latency (p50, ms)": 72,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "widespread_tick",
+      "Created At": "2022-05-06T16:25:58.656Z",
+      "Parent Model": "unemployed_bedbug",
+      "Accuracy (sliding)": "14%",
+      "(cumu.)": "86%",
+      "Latency (p50, ms)": 205,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "colourful_koala",
+      "Created At": "2021-01-23T16:24:27.999Z",
+      "Parent Model": "spatial_mongoose",
+      "Accuracy (sliding)": "94%",
+      "(cumu.)": "15%",
+      "Latency (p50, ms)": 148,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "qualified_jellyfish",
+      "Created At": "2020-06-19T16:19:57.565Z",
+      "Parent Model": "rare_aphid",
+      "Accuracy (sliding)": "7%",
+      "(cumu.)": "31%",
+      "Latency (p50, ms)": 286,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "cultural_catfish",
+      "Created At": "2020-05-02T16:05:13.320Z",
+      "Parent Model": "kind_cow",
+      "Accuracy (sliding)": "33%",
+      "(cumu.)": "5%",
+      "Latency (p50, ms)": 381,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "recent_octopus",
+      "Created At": "2022-03-19T16:49:39.777Z",
+      "Parent Model": "progressive_cuckoo",
+      "Accuracy (sliding)": "73%",
+      "(cumu.)": "91%",
+      "Latency (p50, ms)": 36,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "reluctant_lark",
+      "Created At": "2021-10-26T16:41:16.308Z",
+      "Parent Model": "sensitive_skink",
+      "Accuracy (sliding)": "41%",
+      "(cumu.)": "26%",
+      "Latency (p50, ms)": 228,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "hungry_junglefowl",
+      "Created At": "2021-12-19T16:19:23.010Z",
+      "Parent Model": "nervous_jellyfish",
+      "Accuracy (sliding)": "34%",
+      "(cumu.)": "38%",
+      "Latency (p50, ms)": 472,
+      "Status": "Live"
+    },
+    {
+      "Active Model": "fragile_minnow",
+      "Created At": "2020-12-19T16:44:48.934Z",
+      "Parent Model": "gentle_mite",
+      "Accuracy (sliding)": "5%",
+      "(cumu.)": "65%",
+      "Latency (p50, ms)": 7,
+      "Status": "Shadow"
+    },
+    {
+      "Active Model": "expensive_dingo",
+      "Created At": "2020-06-18T16:39:35.461Z",
+      "Parent Model": "regional_cougar",
+      "Accuracy (sliding)": "74%",
+      "(cumu.)": "41%",
+      "Latency (p50, ms)": 473,
+      "Status": "In Review"
+    },
+    {
+      "Active Model": "excess_sturgeon",
+      "Created At": "2020-08-04T16:30:18.598Z",
+      "Parent Model": "condemned_badger",
+      "Accuracy (sliding)": "20%",
+      "(cumu.)": "22%",
+      "Latency (p50, ms)": 326,
+      "Status": "Shadow"
+    }
+  ]
+}
