@@ -45,6 +45,7 @@ function generateTableData(numberOfEntries) {
                 "Parent Model": generateModelName(),
                 "Accuracy (sliding)": generateRandomPercentage(),
                 "(cumu.)": generateRandomPercentage(),
+                "golden-week1": generateRandomPercentage(),
                 "Latency (p50, ms)": generateRandomInt(500), // assume 500ms highest latency
                 "Status": generateRandomStatus(),
             },
